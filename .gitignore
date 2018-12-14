@@ -1,9 +1,10 @@
 __not/
-
-
-
+data/
+data*/
+*.npy
+out*/
 *.zip
-
+out/
 *.mat
 
 # Byte-compiled / optimized / DLL files
@@ -78,7 +79,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-
+.ipynb_checkpoints
 
 # pyenv
 .python-version
