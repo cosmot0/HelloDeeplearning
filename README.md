@@ -1,3 +1,0 @@
-# HelloDeeplearning
-
-Hello
