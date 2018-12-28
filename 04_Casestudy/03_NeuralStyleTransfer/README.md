@@ -12,7 +12,7 @@
 ***
 
 * NST2 (style layer = 0.2, content alpha = 10, style beta = 90)
-<img height = "200" src="https://github.com/cosmot0/HelloDeeplearning/blob/master/04_Casestudy/03_NeuralStyleTransfer/NST/1090/generated_image.jpg"/>
+<img height = "200" src="https://github.com/cosmot0/HelloDeeplearning/blob/master/04_Casestudy/03_NeuralStyleTransfer/NST2/1090/generated_image.jpg"/>
 
 * NST2 (style layer = 0.2, content alpha = 40, style beta = 40)
 <img height = "200" src="https://github.com/cosmot0/HelloDeeplearning/blob/master/04_Casestudy/03_NeuralStyleTransfer/NST2/4040/generated_image.jpg"/>
